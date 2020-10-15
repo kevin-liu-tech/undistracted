@@ -24793,7 +24793,7 @@ p {
 }
 
 .landing-3 .content3-section {
-  border-bottom: 1px solid #242427;
+  /*border-bottom: 1px solid #242427;*/
 }
 
 .landing-3 .content1-section {
@@ -24803,7 +24803,8 @@ p {
 .landing-3 .content2-section {
   padding-top: 50px;
   padding-bottom: 50px;
-  background: #1e1e20;
+  background: #19191b;
+  border-bottom: 1px solid #242427;
 }
 
 @media (min-width: 768px) {
